@@ -1,0 +1,174 @@
+.spacing {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #b6562a;
+}
+
+.spacing-1 {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rosybrown;
+}
+
+.spacing-2 {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #ffd7b5;
+}
+
+.spacing-3 {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #633f21;
+}
+
+#more-spacing {
+    width: 850px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.float-left-1 {
+    float: left;
+    width: fit-content;
+    padding: 15px;
+    line-height: 1.5em;
+}
+
+html {
+    font-family: "Garamond", serif;
+}
+
+#page1 {
+    background-color: #F9F1D9;
+    width: 850px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#page2 {
+    background-color: #ffd7b5;
+    width: 850px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#page3 {
+    background-color: #e3c29e;
+    width: 850px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+button {
+    font-family: "Garamond", serif;
+}
+
+.float-left {
+    float: left;
+    margin: 15px;
+    clear: both;
+}
+
+.float-right {
+    float: right;
+    margin: 15px;
+}
+
+header {
+    text-align: center;
+}
+
+h3 {
+    color: #511f16;
+}
+
+th, tr, td {
+    border: 2px solid #633f21;
+    padding: 5px;
+    text-align: center;
+}
+
+#prologue {
+  float: right;
+  width: 51%;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: 2px solid rosybrown;
+  margin-bottom: 10px;
+  padding-bottom: 0px;
+  padding-top: 4px;
+}
+
+#definition {
+    clear: both;
+}
+
+span {
+    color: brown;
+    font-size: 1.1em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 16px;
+  line-height: 1.5em;
+}
+
+li::before {
+  content: "🍁"; 
+  padding-right: 8px;
+}
+
+a:hover, a:active, a:focus {
+    background-color: #b6562a;
+    color: white;
+}
+
+#left-img {
+    float: left;
+    margin: 15px;
+    margin-left: 0px;
+    border: 2px dotted rosybrown;
+}
+
+#right-img {
+    float: right;
+    margin: 15px;
+    margin-right: 0px;
+    border: 2px dotted rosybrown;
+}
+
+#insights-pd {
+    width: 40%;
+}
+
+.forward {
+  float: right;
+  width: 48%;
+  border: 2px solid rosybrown;
+}
+
+.learn-more {
+    margin: 25px;
+    padding: 10px;
+}
+
+.img-spacing {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #b6562a;
+}
+
+.clear-both {
+      clear: both;
+}
